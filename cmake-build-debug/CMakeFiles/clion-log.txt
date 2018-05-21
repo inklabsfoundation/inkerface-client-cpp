@@ -1,0 +1,6 @@
+/Applications/CLion.app/Contents/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/wangh09/CLionProjects/inkerface-client-cpp
+-- Boost version: 1.67.0
+Installation path: /usr/local
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/wangh09/CLionProjects/inkerface-client-cpp/cmake-build-debug
